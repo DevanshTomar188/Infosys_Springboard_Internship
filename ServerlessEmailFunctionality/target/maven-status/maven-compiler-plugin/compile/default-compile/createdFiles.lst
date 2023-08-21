@@ -1,0 +1,6 @@
+com\infy\email\EmailApplication.class
+com\infy\email\service\EmailServerlessService.class
+com\infy\email\controller\EmailServerlessController.class
+com\infy\email\handler\AwsLambda.class
+com\infy\email\model\EmailServerless.class
+com\infy\email\service\EmailServerlessService$1.class
