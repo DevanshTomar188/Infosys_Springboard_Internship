@@ -1,5 +1,5 @@
 # InternshipRepo
-This repository contains serverless functions written by interns during their internship.
+This repository contains serverless functions and cricket score api written by interns during their internship.
 
 ## By - DEVANSH TOMAR
 ## 1-AWS Lambda API Link for getLicenseByLicenseNumber
